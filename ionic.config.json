@@ -1,0 +1,7 @@
+{
+  "name": "Koalap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
